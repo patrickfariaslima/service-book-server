@@ -1,11 +1,11 @@
 {
   "name": "alura-books-server",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "nodemon server.js"
   },
   "author": "Patrick Farias",
   "license": "ISC",
